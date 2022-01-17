@@ -1,5 +1,5 @@
 - 👋 Hi, I’m SAI SANKATMOCHAN
-- 👀 I’m interested in thapar institute of technology,patiala
+- 👀 I’m interested in software related stuffs
 - 🌱 I’m currently learning web development,data structure and algorithm
 - 💞️ I’m looking to collaborate on c++,html,css
 - 📫 How to reach me mail me on ssai_be21@thapar.edu
